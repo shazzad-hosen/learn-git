@@ -1,2 +1,1 @@
-# learn-git
-We Are learning git
+# though it is public but this repo is just for me.
